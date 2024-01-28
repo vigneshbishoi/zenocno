@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.666" height="44" viewBox="0 0 36.666 44">
+  <g id="Group_47219" data-name="Group 47219" transform="translate(1149 -2980.999)">
+    <g id="noun-pdf-1658745" transform="translate(-1149 2981)" opacity="0.2">
+      <path id="Union_1" data-name="Union 1" d="M2.925,44C.825,44,0,43.176,0,41.075V2.926C0,.826.825,0,2.925,0H22.039a3.968,3.968,0,0,1,3.329,1.379L35.287,11.3a3.967,3.967,0,0,1,1.379,3.328V41.075c0,2.1-.825,2.925-2.926,2.925Zm-.367-3.339c0,.56.221.781.781.781H33.327c.56,0,.78-.219.78-.781V31.2H2.558Zm0-37.322v14.6H34.107V13.847c0-.279-.11-.39-.389-.39H26.134c-2.1,0-2.925-.825-2.925-2.925V2.948c0-.279-.111-.389-.39-.389H3.339C2.779,2.559,2.558,2.779,2.558,3.339Z" fill="#f1973d"/>
+    </g>
+    <rect id="Rectangle_88" data-name="Rectangle 88" width="34" height="13" transform="translate(-1149 2999)" fill="#f1973d"/>
+    <text id="JPG" transform="translate(-1143 3010)" fill="#fff" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">JPG</tspan></text>
+  </g>
+</svg>

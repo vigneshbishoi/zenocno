@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="BodyTemperature" transform="translate(-30 -489.218)">
+    <circle id="Ellipse_3126" data-name="Ellipse 3126" cx="30" cy="30" r="30" transform="translate(30 489.218)" fill="#f5f6fa"/>
+    <g id="Group_48001" data-name="Group 48001" transform="translate(795 451.18)">
+      <g id="noun-temperature-1415823" transform="translate(-742 53.038)">
+        <path id="Path_92916" data-name="Path 92916" d="M37.566,42.252V27.659A4.508,4.508,0,0,0,33.1,23h-.19a4.833,4.833,0,0,0-4.849,4.659V42.347A7.022,7.022,0,0,0,26.3,46.863a6.624,6.624,0,0,0,6.655,6.56,6.533,6.533,0,0,0,6.512-6.56A5.691,5.691,0,0,0,37.566,42.252Zm-4.611,9.27A4.718,4.718,0,0,1,28.2,46.863a5.2,5.2,0,0,1,1.521-3.518l.238-.285v-15.4A2.929,2.929,0,0,1,32.908,24.9h.19a2.6,2.6,0,0,1,2.567,2.757V43.2l.38.285a3.783,3.783,0,0,1,1.521,3.375A4.626,4.626,0,0,1,32.955,51.522Z" transform="translate(-26.3 -23)" fill="#4fb4f8"/>
+        <circle id="Ellipse_3127" data-name="Ellipse 3127" cx="5.704" cy="5.704" r="5.704" transform="translate(0.951 18.046)" fill="#4fb4f8"/>
+        <rect id="Rectangle_8542" data-name="Rectangle 8542" width="8.081" height="7.606" transform="translate(2.377 13.292)" fill="#4fb4f8"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="271" viewBox="0 0 24 271">
+  <g id="timeline" transform="translate(-17 -1256)">
+    <rect id="Rectangle_8882" data-name="Rectangle 8882" width="1" height="258" transform="translate(29 1266)" fill="#eee"/>
+    <g id="Ellipse_3175" data-name="Ellipse 3175" transform="translate(17 1256)" fill="#fff" stroke="#eee" stroke-width="1">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3180" data-name="Ellipse 3180" transform="translate(17 1338)" fill="#fff" stroke="#eee" stroke-width="1">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3181" data-name="Ellipse 3181" transform="translate(17 1421)" fill="#fff" stroke="#eee" stroke-width="1">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3182" data-name="Ellipse 3182" transform="translate(17 1503)" fill="#fff" stroke="#eee" stroke-width="1">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.5" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Calendar" transform="translate(1404 -6)">
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="24" height="24" rx="12" transform="translate(-1404 6)" fill="#9b26af"/>
+    <g id="Group" transform="translate(-1408.696 2.161)">
+      <path id="Compound_Path" data-name="Compound Path" d="M22.02,11.473H20.632v-.444A.429.429,0,0,0,20.2,10.6H18.929a.429.429,0,0,0-.429.429v.458l-3.149.029v-.487a.429.429,0,0,0-.429-.429H13.647a.429.429,0,0,0-.429.429v.458H11.829a.429.429,0,0,0-.429.429V21.45a.429.429,0,0,0,.429.429H22.02a.429.429,0,0,0,.429-.429V11.9A.429.429,0,0,0,22.02,11.473Zm-1.846,8.345v-.8h.8Zm1.417-1.646H19.745a.429.429,0,0,0-.429.429v1.818H12.259V14.994h9.332Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

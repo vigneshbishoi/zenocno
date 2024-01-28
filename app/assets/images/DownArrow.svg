@@ -1,0 +1,5 @@
+<svg id="DownArrow" xmlns="http://www.w3.org/2000/svg" width="9.242" height="5" viewBox="0 0 9.242 5">
+  <g id="DownArrow-2" data-name="DownArrow" transform="translate(-40 35) rotate(-90)">
+    <path id="Path" d="M0,4.623a.65.65,0,0,1,.18-.457L3.952.191a.59.59,0,0,1,.869,0,.669.669,0,0,1,0,.913L1.483,4.623,4.82,8.137a.677.677,0,0,1,0,.919.6.6,0,0,1-.869,0L.18,5.08A.67.67,0,0,1,0,4.623Z" transform="translate(30 40)" fill='#000'/>
+  </g>
+</svg>

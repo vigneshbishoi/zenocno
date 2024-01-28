@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Help" transform="translate(-329 -52)">
+    <g id="Search_BG" data-name="Search BG" transform="translate(329 52)">
+      <g id="IconBg">
+        <circle id="IconBg-2" data-name="IconBg" cx="18" cy="18" r="18" fill="#e4e5ea"/>
+      </g>
+    </g>
+    <g id="noun-help-3039276" transform="translate(342 62)">
+      <path id="Path_100302" data-name="Path 100302" d="M5,0A5.006,5.006,0,0,0,0,5,1,1,0,0,0,2,5,3,3,0,1,1,5,8,1,1,0,0,0,4,9v2.5a1,1,0,0,0,2,0V9.9A5,5,0,0,0,5,0M5,14a1,1,0,1,1-1,1,1,1,0,0,1,1-1" stroke="#000" stroke-width="0.2" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

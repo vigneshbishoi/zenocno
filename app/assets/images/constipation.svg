@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_92987" data-name="Path 92987" d="M491,440h16.647v27.981H491Z" transform="translate(-491 -440)" fill="#4fb4f8"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_92989" data-name="Path 92989" d="M731,222.14h1.2v5.819H731Z" transform="translate(-731 -222.14)" fill="#4fb4f8"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_92991" data-name="Path 92991" d="M770,222.14h1.2v5.819H770Z" transform="translate(-770 -222.14)" fill="#4fb4f8"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_92993" data-name="Path 92993" d="M810,222.14h1.2v5.819H810Z" transform="translate(-810 -222.14)" fill="#4fb4f8"/>
+    </clipPath>
+  </defs>
+  <g id="Constipation" transform="translate(-30 -870.564)">
+    <circle id="Ellipse_3126" data-name="Ellipse 3126" cx="30" cy="30" r="30" transform="translate(30 870.564)" fill="#f5f6fa"/>
+    <g id="noun-diarrhea-2737183" transform="translate(-291.348 656.424)">
+      <path id="Path_92983" data-name="Path 92983" d="M343.151,639.98h-4.42a1.029,1.029,0,0,0-1.028,1.028v16.2h14.388l1.142-5.484a6.336,6.336,0,0,0,2.2-.9l.938-3.813H345.265s-1.085-.257-1.085-1.092v-4.912A1.028,1.028,0,0,0,343.151,639.98Z" transform="translate(0 -396.103)" fill="#4fb4f8"/>
+      <path id="Path_92984" data-name="Path 92984" d="M707.387,367.614a4.251,4.251,0,1,1-4.25-4.251,4.251,4.251,0,0,1,4.25,4.251" transform="translate(-342.393 -133.876)" fill="#4fb4f8"/>
+      <path id="Path_92985" data-name="Path 92985" d="M589.763,481.384a1.511,1.511,0,0,0-2.889-.889,12.111,12.111,0,0,0,.5,8.593h3.793C588.237,486.59,589.69,481.625,589.763,481.384Z" transform="translate(-235.682 -243.905)" fill="#4fb4f8"/>
+      <g id="Group_48085" data-name="Group 48085" transform="translate(345.678 233.474)" clip-path="url(#clip-path)">
+        <path id="Path_92986" data-name="Path 92986" d="M500.529,465.048a2.361,2.361,0,1,0,4.586,1.128l2.739-11.132a2.361,2.361,0,0,0-2.293-2.926h-8.516c-1.7-3.06-1.328-6.922-.646-9.131a1.927,1.927,0,0,1,3.683,1.134,10.914,10.914,0,0,0-.388,3.534c.379-.917.759-1.774,1.079-2.534.916-1.729.683-4.077-.812-4.8s-3.964-.346-5.462,2.166a20.874,20.874,0,0,0-3.2,10.046c-.045,3.1,1.931,3.831,3.63,4.165a5.4,5.4,0,0,0,1.272.144h6.346Z" transform="translate(-491.283 -439.993)" fill="#4fb4f8"/>
+      </g>
+      <g id="Group_48086" data-name="Group 48086" transform="translate(358.163 222.14)" clip-path="url(#clip-path-2)">
+        <path id="Path_92988" data-name="Path 92988" d="M732.138,222.6c.183-.175.007-.583-.178-.406a2.934,2.934,0,0,0-.884,1.833c-.081.818.523,1.344.591,2.112a2.16,2.16,0,0,1-.473,1.428c-.167.207.083.539.249.332a2.784,2.784,0,0,0,.513-2.23c-.152-.815-.734-1.207-.419-2.137A2.441,2.441,0,0,1,732.138,222.6Z" transform="translate(-731.064 -222.146)" fill="#4fb4f8"/>
+      </g>
+      <g id="Group_48087" data-name="Group 48087" transform="translate(360.192 222.14)" clip-path="url(#clip-path-3)">
+        <path id="Path_92990" data-name="Path 92990" d="M771.835,222.6c.183-.175.007-.583-.178-.406a2.935,2.935,0,0,0-.885,1.833c-.081.818.523,1.344.591,2.112a2.16,2.16,0,0,1-.473,1.428c-.167.207.083.539.249.332a2.784,2.784,0,0,0,.513-2.23c-.152-.815-.734-1.207-.419-2.137A2.442,2.442,0,0,1,771.835,222.6Z" transform="translate(-770.725 -222.146)" fill="#4fb4f8"/>
+      </g>
+      <g id="Group_48088" data-name="Group 48088" transform="translate(362.273 222.14)" clip-path="url(#clip-path-4)">
+        <path id="Path_92992" data-name="Path 92992" d="M811.538,222.6c.183-.175.007-.583-.178-.406a2.935,2.935,0,0,0-.885,1.833c-.081.818.523,1.344.591,2.112a2.158,2.158,0,0,1-.473,1.428c-.167.207.083.539.249.332a2.785,2.785,0,0,0,.513-2.23c-.152-.815-.734-1.207-.419-2.137A2.442,2.442,0,0,1,811.538,222.6Z" transform="translate(-810.444 -222.146)" fill="#4fb4f8"/>
+      </g>
+    </g>
+  </g>
+</svg>

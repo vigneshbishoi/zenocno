@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="335" height="84" viewBox="0 0 335 84">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#108fe5"/>
+      <stop offset="1" stop-color="#4fb4f8"/>
+    </linearGradient>
+  </defs>
+  <g id="SOS" transform="translate(-14 -121)">
+    <g id="Group_46858" data-name="Group 46858" transform="translate(14 121.5)">
+      <g id="Group_46657" data-name="Group 46657">
+        <rect id="Rectangle_8296" data-name="Rectangle 8296" width="335" height="82.974" rx="10" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_48056" data-name="Group 48056" transform="translate(-6 -0.192)">
+      <g id="Group_48047" data-name="Group 48047" transform="translate(-20 -94)">
+        <g id="noun-plus-1020986" transform="translate(323 242)">
+          <path id="Path_92758" data-name="Path 92758" d="M22.507,7.5h-.088a15,15,0,0,0-.088,30h.088a15,15,0,1,0,.085-30Zm9.215,24.413a13.147,13.147,0,0,1-9.3,3.822h-.081a13.235,13.235,0,0,1,.078-26.47h.078a13.235,13.235,0,0,1,9.229,22.648Z" transform="translate(-7.375 -7.5)" fill="#fff"/>
+          <path id="Path_92759" data-name="Path 92759" d="M33.291,31.485l.05-8.093a.9.9,0,0,0-.9-.9h0a.9.9,0,0,0-.9.9L31.5,31.482l-8.1-.054h0a.9.9,0,1,0,0,1.8l8.091.047-.054,8.1a.9.9,0,0,0,.9.9h0a.9.9,0,0,0,.9-.9l.047-8.089,8.091.047h0a.9.9,0,1,0,0-1.8Z" transform="translate(-17.345 -17.381)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <path id="noun-phone-52971" d="M68.565,56.534,68.2,55.8c-1.029-2.425-13.67-6.1-14.7-6.174l-.808.073c-1.543.294-3.234,1.69-6.541,4.557a2,2,0,0,1-2.352.294c-4.336-2.425-9.628-7.276-12.274-10.216a46.162,46.162,0,0,1-7.938-12.568,2.2,2.2,0,0,1,.588-2.278c3.748-3.381,5.365-5,5.512-6.762.073-1.029-2.131-14.038-4.41-15.287L24.614,7c-1.47-.955-3.675-2.352-6.1-1.837a6.741,6.741,0,0,0-1.69.661c-1.617,1.029-5.659,3.822-7.5,7.423-1.1,2.278-1.617,22.931,13.817,40.35C38.431,70.866,57.32,71.6,60.113,71.013h.073l.22-.074c3.822-1.4,7.056-5,8.305-6.541C70.991,61.679,69.447,58.372,68.565,56.534Z" transform="translate(229.079 119.191)" fill="#fff" opacity="0.1"/>
+    <path id="Subtraction_7" data-name="Subtraction 7" d="M127,199V71a63.7,63.7,0,0,1,35.783,10.93,64.187,64.187,0,0,1,23.188,28.158,63.915,63.915,0,0,1-5.9,60.694,64.187,64.187,0,0,1-28.158,23.188A63.6,63.6,0,0,1,127,199Z" transform="translate(74 332) rotate(-90)" fill="#fff" opacity="0.06"/>
+    <path id="Subtraction_8" data-name="Subtraction 8" d="M127,239V71a83.607,83.607,0,0,1,46.965,14.346A84.245,84.245,0,0,1,204.4,122.3a83.889,83.889,0,0,1-7.745,79.662A84.246,84.246,0,0,1,159.7,232.4,83.473,83.473,0,0,1,127,239Z" transform="translate(270 -6) rotate(90)" fill="#fff" opacity="0.06"/>
+  </g>
+</svg>

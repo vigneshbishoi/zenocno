@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/splash_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:textSize="60dp"
+            android:textColor="#ffffff"
+            android:fontFamily="@font/poppins_regular"
+            android:text="Love" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:fontFamily="@font/poppins_regular"
+            android:text="Heals"
+            android:textSize="60dp"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:textSize="60dp"
+            android:textColor="#ffffff"
+            android:fontFamily="@font/poppins_regular"
+            android:text="Cancer" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:textSize="60dp"
+            android:textColor="#ffffff"
+            android:fontFamily="@font/poppins_regular"
+            android:text="" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/logoImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="215dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="45dp"
+            android:src="@drawable/zhc" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Built by Integrative Oncology Experts"
+            android:textColor="#ffffff"
+            android:fontFamily="@font/poppins_regular"
+            android:textSize="16dp" />
+    </LinearLayout>
+</RelativeLayout>

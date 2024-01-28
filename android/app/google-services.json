@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "118913428588",
+    "project_id": "zenonco-b58d1",
+    "storage_bucket": "zenonco-b58d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118913428588:android:c768a6d5f877295394bc49",
+        "android_client_info": {
+          "package_name": "com.zenonco.cancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118913428588-e6ien4o1cm2l3p8qpnjflmk3rbd7ughf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zenonco.cancer",
+            "certificate_hash": "9eb2c38ae95f4a675111caa422f2ea0edd59bc36"
+          }
+        },
+        {
+          "client_id": "118913428588-9e98bigmddkp2jprch1g0323dblnmkh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfN0EQV0nbqWAWOvbkrTs-Np8I7Ln2GbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118913428588-9e98bigmddkp2jprch1g0323dblnmkh4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "118913428588-efpfavqkutbt8dl2i8gumsj3elb24hi7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zenco.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="RespiratoryRate" transform="translate(-30 -410)">
+    <circle id="Ellipse_3126" data-name="Ellipse 3126" cx="30" cy="30" r="30" transform="translate(30 410)" fill="#f5f6fa"/>
+    <g id="noun-respiratory-3485398" transform="translate(10 327.966)">
+      <path id="Path_92937" data-name="Path 92937" d="M316.851,146.62a21.064,21.064,0,0,0-6.828-12.746,2.235,2.235,0,0,0-3.674,1.713v11.59a3.361,3.361,0,0,0,3.361,3.361h3.823A3.371,3.371,0,0,0,316.851,146.62Z" transform="translate(-253.543 -29.362)" fill="#4fb4f8"/>
+      <path id="Path_92938" data-name="Path 92938" d="M42.872,133.874a21.064,21.064,0,0,0-6.828,12.746,3.371,3.371,0,0,0,3.318,3.918h3.823a3.361,3.361,0,0,0,3.361-3.361v-11.59A2.235,2.235,0,0,0,42.872,133.874Z" transform="translate(0 -29.362)" fill="#4fb4f8"/>
+      <path id="Path_92939" data-name="Path 92939" d="M232.311,102.034H230.27v4.806a2.1,2.1,0,0,1-.617,1.489v2.377a4.174,4.174,0,0,0,1.638-1.148,4.174,4.174,0,0,0,1.638,1.148v-2.377a2.1,2.1,0,0,1-.617-1.489Z" transform="translate(-181.615)" fill="#4fb4f8"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.zenonco.cancer">
+
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION"/>
+
+  <application xmlns:tools="http://schemas.android.com/tools" android:name=".MainApplication" android:label="@string/app_name" android:icon="@mipmap/ic_launcher" android:roundIcon="@mipmap/ic_launcher" android:allowBackup="false" android:largeHeap="true" android:theme="@style/AppTheme" 
+  android:usesCleartextTraffic="true" tools:ignore="GoogleAppIndexingWarning" android:requestLegacyExternalStorage="true">
+    <uses-library android:name="org.apache.http.legacy" android:required="false" />
+    <activity android:name=".MainActivity" android:label="@string/app_name" android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode" android:launchMode="singleTask" android:windowSoftInputMode="adjustResize">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+      <intent-filter android:autoVerify="true">
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <data android:scheme="https" android:host="zenco.page.link" />
+      </intent-filter>
+    </activity>
+    <provider
+        android:name="com.vinzscam.reactnativefileviewer.FileProvider"
+        android:authorities="${applicationId}.provider"
+        android:exported="false"
+        android:grantUriPermissions="true">
+      <meta-data
+          android:name="android.support.FILE_PROVIDER_PATHS"
+          android:resource="@xml/file_viewer_provider_paths"
+          />
+    </provider>
+  </application>
+  <queries>
+    <intent>
+        <action android:name="android.intent.action.VIEW" />
+        <!-- If you don't know the MIME type in advance, set "mimeType" to "*/*". -->
+        <data android:mimeType="*/*" />
+      </intent>
+    </queries>
+    <queries>
+    <package android:name="com.google.android.apps.fitness" />
+    </queries>
+</manifest>

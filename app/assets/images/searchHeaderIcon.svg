@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_48387" data-name="Group 48387" transform="translate(-324 -52)">
+    <g id="IconBg" transform="translate(324 52)">
+      <circle id="IconBg-2" data-name="IconBg" cx="18" cy="18" r="18" fill="#e4e5ea"/>
+    </g>
+    <g id="SearchIcon" transform="translate(333.426 61)">
+      <path id="SearchIcon-2" data-name="SearchIcon" d="M17.691,16.084,14.207,12.6a7.878,7.878,0,1,0-1.588,1.588l3.485,3.485a1.122,1.122,0,0,0,1.586-1.586Zm-9.762-2.57a5.606,5.606,0,1,1,5.606-5.606A5.606,5.606,0,0,1,7.929,13.514Z" transform="translate(-0.021 0)" stroke="#000" stroke-width="0.5" fill="#000"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Help" transform="translate(-22 -955)">
+    <path id="Path_80207" data-name="Path 80207" d="M4,0H20a4,4,0,0,1,4,4V20a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(22 955)" fill="#e71e62"/>
+    <g id="noun-help-1356690" transform="translate(5.204 950.559)">
+      <path id="Path_80195" data-name="Path 80195" d="M24.965,14.534a1.456,1.456,0,0,0,1.465-1.465,2.8,2.8,0,0,1,3.056-2.805,2.858,2.858,0,0,1,2.6,2.889,2.734,2.734,0,0,1-2.261,2.721A2.185,2.185,0,0,0,28,18.114v2.093a1.465,1.465,0,0,0,2.931,0V18.616A5.783,5.783,0,1,0,23.5,13.069,1.47,1.47,0,0,0,24.965,14.534Z" transform="translate(0 0)" fill="#fff"/>
+      <circle id="Ellipse_3144" data-name="Ellipse 3144" cx="1.507" cy="1.507" r="1.507" transform="translate(27.959 22.238)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
